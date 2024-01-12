@@ -8,8 +8,7 @@
 
 # 🫙 Github
 
-- https://github.com/verystrongvery/websocket_practice
-
+- https://github.com/verystrongvery/own_web_server
 # 🛠 기술 스택
 
 - C, Linux
