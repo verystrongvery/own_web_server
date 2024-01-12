@@ -57,13 +57,12 @@
 
 ### 1. 웹서버에 클라이언트가 요청 하려는 정적 컨텐츠(HTML 파일)
 
-![Untitled.png](..%2F..%2F..%2FDownloads%2FUntitled.png)
+![Untitled](https://github.com/verystrongvery/own_web_server/assets/147907168/91e0d21d-5abe-442f-bf2a-3fd2950da494)
 
 ### 2. 소스 컴파일 및 실행
 
-![Untitled (1).png](..%2F..%2F..%2FDownloads%2FUntitled%20%281%29.png)
-
+![Untitled (1)](https://github.com/verystrongvery/own_web_server/assets/147907168/f818fbf9-5aa4-4330-96f5-0cd1a5124e6f)
 
 ### 3. 클라이언트가 웹서버에 요청
 
-![Untitled (2).png](..%2F..%2F..%2FDownloads%2FUntitled%20%282%29.png)
+![Untitled (2)](https://github.com/verystrongvery/own_web_server/assets/147907168/a73dedaf-77ba-4873-b22a-fd1a039e192c)
